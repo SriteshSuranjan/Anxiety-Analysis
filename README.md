@@ -19,8 +19,3 @@ This project analyzes anxiety levels using machine learning techniques. The data
 
 ## 📊 Dataset  
 The dataset contains features related to psychological, social, and behavioral factors influencing anxiety. Preprocessing steps include handling missing values, normalizing data, and feature selection.
-
-## 📜 How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/Anxiety-Analysis.git
